@@ -1,0 +1,35 @@
+.onelable{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 650px;  
+}
+.twolabel{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 650px;  
+}
+.threelabel{
+    display: flex;
+    position: relative;
+    top: 100px;
+    left: 650px;    
+}
+.firstBlock{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.SecondBlock{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
